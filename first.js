@@ -5,4 +5,4 @@ const product{
     price = 250000,
     offer = 5,
 };
-console.log(product.offer);
+console.log(product.price);
